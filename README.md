@@ -1,4 +1,4 @@
-# Technical Task - Reonic
+# Technical Task
 
 ---
 
